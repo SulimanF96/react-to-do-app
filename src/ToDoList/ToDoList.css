@@ -1,0 +1,68 @@
+.to-do-list-container{
+    background: white;
+    /* min-height: 20%; */
+    width: 22vw;
+    color: black;
+    /* padding: 52px; */
+    /* padding: 0 68px; */
+    padding: 14px;
+    margin: 56px;
+    border-radius: 1.33333vw;
+
+}
+
+
+p{
+    display: inline-block;
+    margin-right: 9px;
+    font-weight: bold;
+}
+
+.red-border{
+    border-bottom: solid 2px red;
+}
+
+.orange-border{
+    border-bottom: solid 2px orange;
+}
+
+.green-border{
+    border-bottom: solid 2px green;
+}
+
+
+.to-do-list-body{
+    padding-top: 14px;
+}
+
+.to-do-items-actions{
+    display: inline-block;
+    float: right;
+    margin-top: 14px;
+    margin-right: 11px;
+}
+
+.delete-item{
+    margin-right: 13px;
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+}
+
+.next-status{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.green{
+    color: green;
+}
+
+.orange{
+    color: orange;
+}
+
+.red{
+    color: red;
+}

@@ -1,0 +1,23 @@
+.form{
+    padding-top: 100px;
+    text-align: center;
+  }
+  
+  .add-button{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+  
+  input{
+    border: none;
+      padding: 8px;
+      margin-left: 42px;
+  }
+
+  p{
+    display: inline-block;
+    margin-right: 9px;
+    font-weight: bold;
+}

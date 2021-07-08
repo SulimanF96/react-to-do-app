@@ -1,0 +1,22 @@
+.to-do-item-container{
+    /* padding: 7px; */
+    /* border-radius: 8px; */
+    padding-left: 10px;
+    border-radius: 0.33333vw;
+    margin-top: 4px;
+}
+
+.red-to-do-item-border{
+    border: solid 1px red;
+    border-left: 5px solid red;
+}
+
+.orange-to-do-item-border{
+    border: solid 1px orange;
+    border-left: 5px solid orange;
+}
+
+.green-to-do-item-border{
+    border: solid 1px green;
+    border-left: 5px solid green;
+}
